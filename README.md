@@ -1,12 +1,12 @@
 # chaincode
 公益家
-一、Fabric 安装与使用
+* 一、Fabric 安装与使用
 Fabric 安装教程可参考博客：
 https://blog.csdn.net/qq_28540443/article/details/104265844
 腾讯云主机上的 Fabric 版本为 2.1，安装目录为：
  /block/gopath/src/github.com/hyperledger/fabric
 
-二、智能合约 Chaincode 开发
+* 二、智能合约 Chaincode 开发
 1、常用 API 介绍
 Java 版本 Chaincode 的一些 API 介绍，参考阿里云文档：
 https://help.aliyun.com/document_detail/141372.html?spm=a2c4g.11186623.6.606.281c379evInTeZ
